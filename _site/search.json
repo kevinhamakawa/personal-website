@@ -4,21 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "|\nHi, I’m Kevin Hamakawa, a fourth-year student at UCLA majoring in Statistics and Data Science with a minor in Data Science Engineering.\nI’m passionate about:\n- Data Science\n- Machine Learning\n- The integration of technology into society\nI am an enthusiastic problem solver who thrives in team environments and collaborating with others.\n\nProfessional Experience\nI have experience working in data science and analytics within the entertainment industry and am excited to explore further opportunities in the field.\nFeel free to connect with me through my homepage or LinkedIn."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Personal Website",
-    "section": "",
-    "text": "Hi there! I’m Kevin Hamakawa, a Statistics and Data Science student at UCLA. Explore my portfolio to learn more about me and my work.\n\nAbout Me\nProjects\n\n\n\nFeel free to reach out or connect on LinkedIn."
-  },
-  {
-    "objectID": "index.html#connect-with-me",
-    "href": "index.html#connect-with-me",
-    "title": "Personal Website",
-    "section": "",
-    "text": "Feel free to reach out or connect on LinkedIn."
+    "text": "|\nHi, I’m Kevin Hamakawa, a fourth-year student at UCLA majoring in Statistics and Data Science with a minor in Data Science Engineering.\nI’m passionate about:\n- Data Science\n- Machine Learning\n- The integration of technology into society\nI am an enthusiastic problem solver who thrives in team environments and collaborating with others.\n\nProfessional Experience\nI have experience working in data science and analytics within the entertainment industry and am excited to explore further opportunities in the field.\nFeel free to connect with me through my LinkedIn."
   },
   {
     "objectID": "projects.html",
@@ -47,5 +33,19 @@
     "title": "Projects",
     "section": "Exploring the Right Way to Play Wordle",
     "text": "Exploring the Right Way to Play Wordle\nThis project investigates strategies for playing the popular game Wordle. Using data analysis and simulations, it examines optimal word choices and their impact on solving the puzzle efficiently."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Personal Website",
+    "section": "",
+    "text": "Hi there! I’m Kevin Hamakawa, a Statistics and Data Science student at UCLA. Explore my portfolio to learn more about me and my work.\n\nAbout Me\nProjects\n\n\n\nFeel free to reach out or connect on LinkedIn."
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Personal Website",
+    "section": "",
+    "text": "Feel free to reach out or connect on LinkedIn."
   }
 ]
