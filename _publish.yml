@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 7583be57-bee4-47f4-b70d-f99f8feff419
+      url: 'https://dynamic-genie-96f895.netlify.app'

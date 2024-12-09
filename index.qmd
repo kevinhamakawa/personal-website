@@ -1,11 +1,16 @@
 ---
-title: "personal-website"
+title: "Personal Website"
+description: "Learn more about Kevin Hamakawa."
+format: html
 ---
 
-This is a Quarto website.
+# Welcome to My Personal Website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi there! I'm Kevin Hamakawa, a Statistics and Data Science student at UCLA. Explore my portfolio to learn more about me and my work.
 
-```{r}
-1 + 1
-```
+-   [About Me](about.qmd)
+-   [Projects](projects.qmd)
+
+## Connect with Me
+
+Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/kevinhamakawa/).

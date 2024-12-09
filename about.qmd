@@ -1,9 +1,20 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+| ![Kevin Hamakawa](headshot.jpg){fig-align="center" width=150px} |  
+Hi, I'm **Kevin Hamakawa**, a fourth-year student at UCLA majoring in **Statistics and Data Science** with a minor in **Data Science Engineering**.  
 
-```{r}
-1 + 1
-```
+I’m passionate about:  
+- **Data Science**  
+- **Machine Learning**  
+- The integration of **technology into society**  
+
+I am an enthusiastic problem solver who thrives in team environments and collaborating with others.  
+
+### Professional Experience
+I have experience working in **data science and analytics** within the entertainment industry and am excited to explore further opportunities in the field.  
+
+Feel free to connect with me through my [homepage](index.qmd) or [LinkedIn](https://www.linkedin.com/in/kevinhamakawa/).  
+

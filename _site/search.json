@@ -4,13 +4,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "|\nHi, I’m Kevin Hamakawa, a fourth-year student at UCLA majoring in Statistics and Data Science with a minor in Data Science Engineering.\nI’m passionate about:\n- Data Science\n- Machine Learning\n- The integration of technology into society\nI am an enthusiastic problem solver who thrives in team environments and collaborating with others.\n\nProfessional Experience\nI have experience working in data science and analytics within the entertainment industry and am excited to explore further opportunities in the field.\nFeel free to connect with me through my homepage or LinkedIn."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Personal Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! I’m Kevin Hamakawa, a Statistics and Data Science student at UCLA. Explore my portfolio to learn more about me and my work.\n\nAbout Me\nProjects\n\n\n\nFeel free to reach out or connect on LinkedIn."
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Personal Website",
+    "section": "",
+    "text": "Feel free to reach out or connect on LinkedIn."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project explores various algorithms and methods to create effective text summaries using Natural Language Processing (NLP). The article dives into the challenges of summarization and provides insights into practical applications."
+  },
+  {
+    "objectID": "projects.html#text-summarization",
+    "href": "projects.html#text-summarization",
+    "title": "Projects",
+    "section": "",
+    "text": "This project explores various algorithms and methods to create effective text summaries using Natural Language Processing (NLP). The article dives into the challenges of summarization and provides insights into practical applications."
+  },
+  {
+    "objectID": "projects.html#predicting-the-madness-of-march",
+    "href": "projects.html#predicting-the-madness-of-march",
+    "title": "Projects",
+    "section": "Predicting the Madness of March",
+    "text": "Predicting the Madness of March\nA predictive analytics project that leverages machine learning techniques to forecast the outcomes of March Madness games. The analysis combines historical data with advanced modeling approaches to improve prediction accuracy."
+  },
+  {
+    "objectID": "projects.html#exploring-the-right-way-to-play-wordle",
+    "href": "projects.html#exploring-the-right-way-to-play-wordle",
+    "title": "Projects",
+    "section": "Exploring the Right Way to Play Wordle",
+    "text": "Exploring the Right Way to Play Wordle\nThis project investigates strategies for playing the popular game Wordle. Using data analysis and simulations, it examines optimal word choices and their impact on solving the puzzle efficiently."
   }
 ]

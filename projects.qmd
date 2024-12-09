@@ -1,0 +1,13 @@
+---
+title: "Projects"
+format: html
+---
+
+## [Text Summarization](https://medium.com/@ucladsu/text-summarization-42a4e31b453f)
+This project explores various algorithms and methods to create effective text summaries using Natural Language Processing (NLP). The article dives into the challenges of summarization and provides insights into practical applications.
+
+## [Predicting the Madness of March](https://ucladatares.medium.com/predicting-the-madness-of-march-537346502fc7)
+A predictive analytics project that leverages machine learning techniques to forecast the outcomes of March Madness games. The analysis combines historical data with advanced modeling approaches to improve prediction accuracy.
+
+## [Exploring the Right Way to Play Wordle](https://ucladatares.medium.com/exploring-the-right-way-to-play-wordle-bc618a92cefe)
+This project investigates strategies for playing the popular game Wordle. Using data analysis and simulations, it examines optimal word choices and their impact on solving the puzzle efficiently.
